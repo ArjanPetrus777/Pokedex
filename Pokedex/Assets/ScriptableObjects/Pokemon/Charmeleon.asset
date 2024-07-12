@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e695598b04434824d8a57bd9cb93d4db, type: 3}
+  m_Name: Charmeleon
+  m_EditorClassIdentifier: 
+  nome: Charmeleon
+  descricao: "Evolu\xE7\xE3o do Charmander"
+  imagemPokemon: {fileID: 21300000, guid: e601199b0c202d84e9f7b63a26c43334, type: 3}
+  tipo:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  habilidades:
+  - {fileID: 11400000, guid: 35ec78f33358b0c418f7344f3645ca48, type: 2}
+  - {fileID: 11400000, guid: 3c6170cee74c22c4792ac8407d042e0a, type: 2}
+  evolucao: {fileID: 11400000, guid: 0c1ee011abb40c547907b567d3c43095, type: 2}
+  preEvolucao: {fileID: 11400000, guid: ebcb0c7bffb7b1e4796e31420d54e762, type: 2}

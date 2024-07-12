@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e695598b04434824d8a57bd9cb93d4db, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  nome: Charmander
+  descricao: "Primeira vers\xE3o"
+  imagemPokemon: {fileID: 21300000, guid: d3521736966a8ee4ca4a6ed8d80b6efa, type: 3}
+  tipo:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  habilidades:
+  - {fileID: 11400000, guid: 35ec78f33358b0c418f7344f3645ca48, type: 2}
+  evolucao: {fileID: 11400000, guid: 2573e08fd6ab41443850e19ae383318b, type: 2}
+  preEvolucao: {fileID: 0}
